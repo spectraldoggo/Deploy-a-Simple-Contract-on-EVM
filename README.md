@@ -4,7 +4,7 @@ Deploy a simple contract on EVM's L1 &amp; L2 using Remix
 
 1.   Download this Workspace [Satoshi Backup.zip](https://github.com/mztacat/Deploy-a-Simple-Contract-on-EVM/files/10365640/Satoshi.Backup.zip)
 
-2.   Goto Remix IDE by clicking <a href=https://remix.ethereum.org/>here
+2.   Goto Remix IDE by clicking <a href=https://remix.ethereum.org/>here.
 
 3.  Follow this procedure to upload the downloaded file: ![image](https://user-images.githubusercontent.com/31314340/211134726-4ce98645-70d4-4841-a831-ecd25b84296d.png)
 
