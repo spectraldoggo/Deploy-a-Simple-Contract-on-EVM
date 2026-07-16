@@ -12,7 +12,7 @@ interface IBEP20 {
   function burnToken() external view returns (uint256);
 
   /**
-   * @dev Returns the token decimals.
+   * @dev Returns the token decimals
    */
   function decimals() external view returns (uint8);
 
